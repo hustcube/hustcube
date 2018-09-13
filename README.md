@@ -1,6 +1,6 @@
 #HUSTR3+         
 
-<font color=#00ffff size=3 color=#00ffff>
+<font color=#00ffff size="3">
 
 >三阶                                      
 
