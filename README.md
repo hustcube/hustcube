@@ -1,9 +1,10 @@
 #HUSTR3+
->三阶                     
+>三阶                                      
 排名  |  姓名  |  成绩  |  姓名  |  成绩                        
 1  |  [方炽霖](https://cubingchina.com/results/person/2016FANG12?lang=zh_cn) |  8.25     |  [方炽霖](https://cubingchina.com/results/person/2016FANG12?lang=zh_cn)| 11.04                  
 2  |  [柳春浩](https://cubingchina.com/results/person/2017LIUC11)  |  9.06     |  [柳春浩](https://cubingchina.com/results/person/2017LIUC11)| 11.45                     
 3  |  [谭    翔](https://cubingchina.com/results/person/2016TANX01)  |  9.06     |  [徐继扬](https://cubingchina.com/results/person/2015XUJI02)| 12.82
+
 >二阶
 
 排名  |  姓名  |  成绩  |  姓名  |  成绩                              
