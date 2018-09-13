@@ -1,4 +1,4 @@
-# ![HUSTR TOP3](https://github.com/hustcube/hustcube.github.io/raw/master/image/PicsArt_09-13-11.25.34.jpg)
+# ![HUSTR TOP3](https://github.com/hustcube/hustcube.github.io/raw/master/image/PicsArt_09-13-07.22.09.jpg)
 
 >三阶
 
