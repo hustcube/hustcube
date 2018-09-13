@@ -1,5 +1,7 @@
-#HUSTR3+
-<font color=#00ffff size=3>color=#00ffff
+#HUSTR3+         
+
+<font color=#00ffff size=3 color=#00ffff>
+
 >三阶                                      
 
 排名  |  姓名  |  成绩  |  姓名  |  成绩                                     
