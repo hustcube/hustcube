@@ -1,6 +1,6 @@
 #HUSTR3+         
 
-<font face="微软雅黑" color="deepbluesky" size="3">
+<font color="deepbluesky" size="3">
 
 >三阶                                      
 
