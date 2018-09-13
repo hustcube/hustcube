@@ -10,7 +10,7 @@
 
 1|[方炽霖](https://cubingchina.com/results/person/2016FANG12)    2.29|[史华帆](https://cubingchina.com/results/person/2014SHIH03)    3.54
 2|[史华帆](https://cubingchina.com/results/person/2014SHIH03)    2.73|[柳春浩](https://cubingchina.com/results/person/2017LIUC11)    4.53
-3|[柳春浩](https://cubingchina.com/results/person/2017LIUC11)    2.89|[方炽霖](https://cubingchina.com/results/person/2016FANG12)    2.63
+3|[柳春浩](https://cubingchina.com/results/person/2017LIUC11)    2.89|[方炽霖](https://cubingchina.com/results/person/2016FANG12)    4.63
 
 >四阶
 
@@ -22,4 +22,4 @@
 
 1|[方炽霖](https://cubingchina.com/results/person/2016FANG12) 1:18.28|[方炽霖](https://cubingchina.com/results/person/2016FANG12) 1:28.27
 2|[柳春浩](https://cubingchina.com/results/person/2017LIUC11) 1:23.84|[史华帆](https://cubingchina.com/results/person/2014SHIH03) 1:29.46
-3|[史华帆](https://cubingchina.com/results/person/2014SHIH03) 1:24.18|[柳春浩](https://cubingchina.com/results/person/2017LIUC11) 1:31.27   
+3|[史华帆](https://cubingchina.com/results/person/2014SHIH03) 1:24.18|[柳春浩](https://cubingchina.com/results/person/2017LIUC11) 1:31.27   
