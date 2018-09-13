@@ -8,7 +8,7 @@
 
 >二阶
 
-排名  |  姓名  |  成绩  |  姓名  |  成绩                              
+排名  |  姓名  |  成绩  |  姓名  |  成绩   
 1 |[方炽霖](https://cubingchina.com/results/person/2016FANG12?lang=zh_cn)|  2.29     |[史华帆](https://cubingchina.com/results/person/2014SHIH03)| 3.54                 
 2 |[史华帆](https://cubingchina.com/results/person/2014SHIH03)|  2.73     |[柳春浩](https://cubingchina.com/results/person/2017LIUC11)| 4.53                        
 3 |[柳春浩](https://cubingchina.com/results/person/2017LIUC11)|  4.89     |[方炽霖](https://cubingchina.com/results/person/2016FANG12?lang=zh_cn)| 4.63
