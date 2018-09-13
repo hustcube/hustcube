@@ -1,1 +1,1 @@
-# hustcube
+# hustcubing
