@@ -1,0 +1,90 @@
+
+<html>
+
+<head>
+
+ 
+
+ 
+
+<style type="text/css">
+
+a:link {color: black} /* 未访问的链接 */
+
+a:visited {color: black} /* 已访问的链接 */
+
+a:hover {color: black} /* 鼠标移动到链接上 */
+
+a:active {color: black} /* 选定的链接 */
+
+a { text-decoration: none;}
+
+</style>
+
+<meta charset="UTF-8">
+
+<title>hustrs</title>
+
+</head>
+<body>
+
+<h1 align="center">HUST CUBE</h1>
+
+<bar>
+
+<table cellpadding="0" cellspacing="0" bgcolor="bfbfbf" width=100% height="50" border="0">
+
+ <tr align="center">
+
+ <font size="50"color="000001">
+
+ <td><a href="hustcube.github.io">排名</a></td>
+
+ <td><a href="hustcube.github.io">统计</a></td>
+
+ <td><a href="hustcube.github.io/record/hustrs">记录</a></td>
+
+ </font>
+
+ </tr>
+
+</table>
+
+<h1 align="center">记录</h1>
+
+<hr />
+
+<table cellpadding="0" cellspacing="0" width=100% height="250"  border="1">
+
+<tr bgcolor="bfbfbf">
+
+ <th>项目</th><th>单次</th><th>平均</th><th>姓名</th></tr>
+
+<tr align="center">
+
+ <td>三阶</td>
+
+<td>8.25</td><td></td><td><a href="https://cubingchina.com/results/person/2016FANG12">方炽霖</a></td>
+
+<td></td><td>11.04</td><td><a href="https://cubingchina.com/results/person/2016FANG12">方炽霖</a></td>
+
+</tr>
+
+<tr align="center">
+
+<td>二阶</td>
+<td>2.29</td><td></td><td><a href="https://cubingchina.com/results/person/2016FANG12">方炽霖</a></td>
+<td></td><td>3.54</td><td><a href="https://cubingchina.com/results/person/2014SHIH03">史华帆</a></td>
+</tr>
+<tr align="center">
+ <td>四阶</td>
+<td>38.73</td><td></td><td><a href="https://cubingchina.com/results/person/2015DENG04">邓储浩伦</a></td>
+<td></td><td>43.62</td><td><a href="https://cubingchina.com/results/person/2017LIUC11">柳春浩</a></td>
+</tr>
+<td>五阶</td>
+<td>1:18.28</td><td></td><td><a href="https://cubingchina.com/results/person/2016FANG12">方炽霖</a></td>
+<td></td><td>1:28.27</td><td><a href="https://cubingchina.com/results/person/2016FANG12">方炽霖</a></td>
+</tr>
+</body>
+</html><!DOCTYPE html>
+
