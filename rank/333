@@ -63,5 +63,8 @@ a { text-decoration: none;}
 <tr bgcolor="bfbfbf">
  <th>排名</th><th>姓名</th><th>成绩</th><th>姓名</th><th>成绩</th></tr>
 
-<tr align="center">
+
+</table>
+</body>
+</html>
 
