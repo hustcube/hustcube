@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>rank</title>
+
+<style  type="text/css">
+table { width:50%;  border:1px solid #778899;  border-collapse:collapse; }
+th { height:30px; border:2px solid #FFFFFF;  background-color: #778899; color:#ffffff; text-align:center;  font-size:1.1em; }
+td { height:30px; border:2px solid #778899;  background-color: #ffffff; color:#000000; text-align:center;  font-size:1.1em; }
+</style>
+ 
+<style type="text/css">
+a:link {color:#778899;}      /* 未访问链接*/
+a:visited {color:#778899;}  /* 已访问链接 */
+a:hover {color:#778899;}  /* 鼠标移动到链接上 */
+a:active {color:#778899;}  /* 鼠标点击时 */ 
+a { text-decoration: none;}
+</style>
+
+<style>
+img { max-width: 100%; height: auto; }
+</style>
+ 
+<style>
+ul.pagination { display: inline-block; padding: 0;  margin: 0; background-color: #778899 }
+ul.pagination li {display: inline;}
+ul.pagination li a { color: #fff; float: left; padding: 8px 100px; text-decoration: none; }
+ul.pagination li a.active { background-color: #99aacc; color: #fff; }
+ul.pagination li a:hover:not(.active) {background-color: #778899;}
+</style>
+ 
+<style>
+h1 { text-align:center; }
+</style>
+</head>
+
+<body>
+
+<h1><img src="https://github.com/hustcube/hustcube.github.io/raw/master/image/IMG_20180914_004129.jpg" alt="HUSTR TOP3" /></h1>
+
+<ul class="pagination">
+  <li><a href="https://hustcube.github.io">首页</a></li>
+  <li><a class="active" href="https://hustcube.github.io/rank/333">排名</a></li>
+  <li><a href="https://hustcube.github.io/statistics/medal">统计</a></li>
+  <li><a href="https://hustcube.github.io/record/hustrs">记录</a></li>
+</ul>
+<br>
+
+<h1>个人排名</h1>
+<hr /><br>
+
+<p>项目</p>
+<form action="">
+<select name="event" onchange="self.location.href=options[selectedIndex].value" >
+<option value="https://hustcube.github.io/rank/333" >三阶</option>
+<option value="https://hustcube.github.io/rank/222" >二阶</option>
+<option value="https://hustcube.github.io/rank/444" >四阶</option>
+<option value="https://hustcube.github.io/rank/555" >五阶</option>
+<option value="https://hustcube.github.io/rank/666" >六阶</option>
+<option value="https://hustcube.github.io/rank/777" >七阶</option>
+<option value="https://hustcube.github.io/rank/3bf" >三盲</option>
+<option value="https://hustcube.github.io/rank/3fm" >最少步</option>
+<option value="https://hustcube.github.io/rank/3oh" >单手</option>
+<option value="https://hustcube.github.io/rank/3wf" selected>脚拧</option>
+<option value="https://hustcube.github.io/rank/clock" >魔表</option>
+<option value="https://hustcube.github.io/rank/min" >五魔方</option>
+<option value="https://hustcube.github.io/rank/pyram" >金字塔</option>
+<option value="https://hustcube.github.io/rank/skewb" >斜转</option>
+<option value="https://hustcube.github.io/rank/sq1" >SQ1</option>
+<option value="https://hustcube.github.io/rank/4bf" >四盲</option>
+<option value="https://hustcube.github.io/rank/5bf" >五盲</option>
+</select>
+</form>
+
+<blockquote><h2>脚拧</h2></blockquote>   
+<hr />
+
+<table>
+<tr><th>排名</th><th>姓名</th><th>成绩</th><th>排名</th><th>姓名</th><th>成绩</th></tr>
+<tr><td>1</td><td><a href="https://cubingchina.com/results/person/2016FANG12">方炽霖</a></td><td>1:08.70</td>
+<td>1</td><td><a href="https://cubingchina.com/results/person/2016FANG12">方炽霖</a></td><td>1:37.00
+</td></tr>
+<tr><td>2</td><td><a href="https://cubingchina.com/results/person/2017LIUC11">柳春浩</a></td><td>1:46.85
+</td>
+<td>2</td><td><a href="https://cubingchina.com/results/person/2015CHAN33">常皓</a></td><td>2:15.40
+</td></tr>
+<tr><td>3</td><td><a href="https://cubingchina.com/results/person/2015CHAN33">常皓</a></td><td>2:00.25</td><td></td><td></td><td></td></th>
+
+
+</table>
+</body>
+</html>
